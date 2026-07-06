@@ -24,7 +24,7 @@ Terms of Service
 By downloading or using [IslandSurvivor], you agree to be bound by these terms.
 
 2. Intellectual Property
-All content within the service, including graphics, code, and design, is the intellectual property of the developer. You may not copy or redistribute any part of the app without permission.
+Copyright and intellectual property rights for all content within the service (text, image, sound, software, etc.) are managed through a Unity Asset Store license.
 
 3. Disclaimer of Warranties
 The service is provided "as is" without any warranties. The developer is not responsible for any data loss or hardware issues occurring from the use of this app.
@@ -68,7 +68,7 @@ Effective Date: April 28, 2026
 개발자는 운영상, 기술상의 필요에 따라 서비스의 전부 또는 일부를 수정하거나 중단할 수 있습니다.
 
 제3조 (지적 재산권)
-서비스 내 모든 콘텐츠(텍스트, 이미지, 사운드, 소프트웨어 등)에 대한 저작권 및 지적 재산권은 개발자에게 귀속됩니다. 사용자는 이를 상업적으로 이용하거나 무단으로 복제할 수 없습니다.
+서비스 내 모든 콘텐츠(텍스트, 이미지, 사운드, 소프트웨어 등)에 대한 저작권 및 지적 재산권은 유니티 에셋 스토어 라이센스를 통해 관리 됩니다.
 
 제4조 (이용자의 의무 및 금지사항)
 사용자는 다음 행위를 해서는 안 됩니다.
