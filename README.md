@@ -10,8 +10,12 @@ IslandSurvivor does not collect, store, or share any personal information. We do
 All game-related data (e.g., high scores, progress) is stored locally on your device and is deleted when the app is uninstalled. We have no access to this data.
 
 3. Third-Party Services
-This app does not use any third-party services that collect data. (e.g., No Ads, No Analytics)
-Note: If you use AdMob or Firebase later, you must update this section.
+This app does not directly collect or store sensitive personal information that can identify an individual, such as names, email addresses, or phone numbers.
+
+However, to ensure stable service provision and error correction (improving app functionality and stability), the following technical information may be automatically collected and processed while the app is running:
+- Collected items: Device or other IDs (device model name, OS version, etc.), app information, and performance data (crash logs, diagnostic information)
+- Purpose of collection: Diagnosing app errors, optimizing service, and maintaining system stability
+- Retention and usage period: Immediately discarded or anonymized upon fulfillment of the purpose and in accordance with the policies of the relevant technical services (e.g., Unity)
 
 4. Contact Us
 If you have any questions regarding this Privacy Policy, please contact us at:
@@ -49,9 +53,13 @@ Effective Date: April 28, 2026
 모든 게임 데이터(점수, 진행 상황 등)는 사용자의 기기 내 로컬 저장소에만 저장되며, 앱 삭제 시 함께 제거됩니다. 당사는 해당 데이터에 접근할 권한이 없습니다.
 
 3. 제3자 서비스(해당 시 수정)
-본 앱은 [광고/분석 도구 등]을 사용하지 않습니다. 따라서 외부 서비스로 개인정보가 전송되는 일은 발생하지 않습니다.
-(
+본 앱은 이용자의 성명, 이메일, 전화번호 등 개인을 식별할 수 있는 민감한 개인정보를 직접 수집하거나 저장하지 않습니다. 
 
+다만, 앱의 안정적인 서비스 제공 및 오류 수정(App 기능 및 안정성 개선)을 위해 앱 실행 중 아래와 같은 기술적 정보가 자동으로 수집 및 처리될 수 있습니다.
+- 수집 항목: 기기 또는 기타 ID(기기 모델명, OS 버전 등), 앱 정보 및 성능 데이터(충돌 로그, 진단 정보)
+- 수집 목적: 앱의 오류 진단, 서비스 최적화 및 시스템 안정성 유지
+- 보유 및 이용기간: 목적 달성 및 해당 기술 서비스(Unity 등)의 정책에 따라 즉시 파기 또는 익명화 처리
+  
 4. 문의처
 개인정보 보호와 관련하여 문의 사항이 있으시면 아래로 연락해 주시기 바랍니다.
 
